@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me :
                        e-mail: d.amine15796@gmail.com
-                       Linked in : amine douss
+                       Linked in : aminedouss
   
 - ⚡ Fun fact: football , robotics
 
