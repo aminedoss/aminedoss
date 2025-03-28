@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is aminedoss and I'm a software engineering student</p>
+<p align="left">My name is amine doss and I'm a software engineering student</p>
 
 ###
 
